@@ -2,6 +2,9 @@
 
 A modern, responsive note-taking application built with React, TypeScript, and Vite. Create, edit, archive, and search your notes with an intuitive interface that works seamlessly on both desktop and mobile devices.
 
+## link
+live site URL : [note-app-website.vercel.app] 
+
 ## Tech Stack
 
 - **React 19** - UI library
@@ -32,8 +35,7 @@ src/
 ├── types/            # TypeScript type definitions
 └── lib/              # Utility functions
 
-## link
-live site URL : [note-app-website.vercel.app] 
+```
 ## Features in Detail
 
 ### Note Management
