@@ -8,7 +8,7 @@
 
 ## Demo
 
-![Notes App Demo](./docs/demo-screenshot.jpg)
+![Notes App Demo](./docs/note-app4.webp)
 
 > الواجهة الرئيسية: قائمة الملاحظات، التفاصيل، الوسوم، والبحث — كل ذلك في تخطيط ثلاثي الأعمدة.
 
